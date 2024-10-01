@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/corrency/static/css/main.ef75de61.css",
+    "main.js": "/corrency/static/js/main.544b32e1.js",
+    "static/js/453.7d99a500.chunk.js": "/corrency/static/js/453.7d99a500.chunk.js",
+    "static/media/curimg.jpg": "/corrency/static/media/curimg.3a8e6308d9260a4a770a.jpg",
+    "index.html": "/corrency/index.html",
+    "main.ef75de61.css.map": "/corrency/static/css/main.ef75de61.css.map",
+    "main.544b32e1.js.map": "/corrency/static/js/main.544b32e1.js.map",
+    "453.7d99a500.chunk.js.map": "/corrency/static/js/453.7d99a500.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef75de61.css",
+    "static/js/main.544b32e1.js"
+  ]
+}
